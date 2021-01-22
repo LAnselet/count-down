@@ -11,11 +11,12 @@
     background: url('../images/bg.jpg');
     background-attachment: fixed;
     background-blend-mode: hard-light;
+    background-size: cover;
   }
 
   .container {
     background: url(../images/bg.jpg);
-    width: 80%;
+    width: 40%;
     margin: 5% auto;
     padding: 11% 5%;
     background-attachment: fixed;
